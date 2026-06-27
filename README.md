@@ -1,6 +1,4 @@
 # Admin Notes
-![Admin Notes Dashboard](screenshot.png)
-
 
 A simple WordPress dashboard widget for administrator notes.
 
